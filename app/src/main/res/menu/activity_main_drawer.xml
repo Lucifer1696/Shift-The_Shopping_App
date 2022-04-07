@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/group1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home2"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_Shop_by_Category"
+            android:icon="@drawable/ic_category"
+            android:title="@string/Shop_by_Category" />
+        <item
+            android:id="@+id/nav_today_deals"
+            android:icon="@drawable/ic_deal"
+            android:title="@string/today_s_deals" />
+    </group>
+
+    <group android:id="@+id/group2"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/nav_Orders"
+            android:icon="@drawable/ic_orders"
+            android:title="@string/your_orders" />
+
+        <item
+            android:id="@+id/nav_Account"
+            android:icon="@drawable/ic_account"
+            android:title="@string/your_account" />
+
+        <item
+            android:id="@+id/nav_WishList"
+            android:icon="@drawable/ic_wishlist"
+            android:title="your_wishlist" />
+        <item
+            android:id="@+id/nav_Logout"
+            android:icon="@drawable/ic_logout"
+            android:title="logout" />
+
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/ic_feedback"
+            android:title="feedback" />
+
+        <item
+            android:id="@+id/nav_Share"
+            android:icon="@drawable/ic_share"
+            android:title="@string/share" />
+    </group>
+
+</menu>

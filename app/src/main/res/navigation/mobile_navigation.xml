@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.shift.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_Shop_by_Category"
+        android:name="com.example.shift.ui.fragmentsfornav.shopBycategory"
+        android:label="@string/Shop_by_Category"
+        tools:layout="@layout/fragment_shop_bycategory" />
+
+    <fragment
+        android:id="@+id/nav_today_deals"
+        android:name="com.example.shift.ui.fragmentsfornav.todays_deal"
+        android:label="@string/today_s_deals"
+        tools:layout="@layout/fragment_todays_deal" />
+
+    <fragment
+        android:id="@+id/nav_Orders"
+        android:name="com.example.shift.ui.fragmentsfornav.MyOrdersFragment"
+        android:label="@string/your_orders"
+        tools:layout="@layout/fragment_my_orders" />
+
+    <fragment
+        android:id="@+id/nav_WishList"
+        android:name="com.example.shift.ui.fragmentsfornav.WishList"
+        android:label="@string/your_wishlist"
+        tools:layout="@layout/fragment_wish_list" />
+
+    <fragment
+        android:id="@+id/nav_Account"
+        android:name="com.example.shift.ui.fragmentsfornav.Account"
+        android:label="@string/your_account"
+        tools:layout="@layout/fragment_account" />
+
+    <fragment
+        android:id="@+id/nav_Sell_On_Shift"
+        android:name="com.example.shift.ui.fragmentsfornav.SellOnShift"
+        android:label="@string/sell_on_shift"
+        tools:layout="@layout/fragment_sell_on_shift" />
+
+    <fragment
+        android:id="@+id/nav_Notification"
+        android:name="com.example.shift.ui.fragmentsfornav.Notification"
+        android:label="@string/your_notifications"
+        tools:layout="@layout/fragment_notification" />
+
+    <fragment
+        android:id="@+id/nav_Customer_Service"
+        android:name="com.example.shift.ui.fragmentsfornav.Customer_Services"
+        android:label="@string/customer_services"
+        tools:layout="@layout/fragment_customer_services" />
+
+</navigation>

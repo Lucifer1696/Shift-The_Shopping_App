@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment_product_description">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/product_Description_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="A mobile phone, cellular phone, cell phone, cellphone, handphone, or hand phone, sometimes shortened to simply mobile, cell or just phone, is a portable telephone that can make and receive calls over a radio frequency link while the user is moving within a telephone service area.
+           A mobile phone allows its user to make and receive telephone calls to and from the public telephone network which includes other mobiles and fixed line phones across the world. It does this by connecting to a cellular network owned by a mobile network operator. A key feature of the cellular network is that it enables seamless " />
+
+</FrameLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#1E79A1</color>
+    <color name="purple_500">#1E79A1</color>
+    <color name="purple_700">#1E79A1</color>
+    <color name="teal_200">#1E79A1</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#FFFFFFFF</color>
+    <color name="red">#F10C0C</color>
+    <color name="green">#2CEA1F</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="gray">#9b9b9b</color>
+    <color name="blue">#362eff</color>
+    <color name="txt_hint">#b5b5be</color>
+    <color name="viewline">#eaeaea</color>
+    <color name="light_gray">#f2f2f2</color>
+    <color name="border_color_dbdbdb">#dbdbdb</color>
+
+    <!--colors for profile-->
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="profileBackground">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="profileEditTextColor">#707070</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+
+</resources>

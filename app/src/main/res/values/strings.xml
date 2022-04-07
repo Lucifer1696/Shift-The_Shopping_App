@@ -1,0 +1,123 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Shift</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_2018_2020_shift_com">2018-2020 shift.com</string>
+    <string name="continue_with">continue with</string>
+    <string name="sign_in">sign in</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="password">Password</string>
+    <string name="logo">logo</string>
+    <string name="Logo">logo</string>
+    <string name="sign_up_with">sign up with</string>
+    <string name="already_have_an_account_sign_in">Already have an account ?sign_in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="search">Search</string>
+    <string name="action_notification">action_notification</string>
+    <string name="action_cart">action_cart</string>
+    <string name="don_t_have_an_account_sign_up" tools:ignore="StringEscaping">Do not have an account? Sign Up</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Shop_by_Category">Shop by Category</string>
+    <string name="today_s_deals" translatable="false">Today`s Deals</string>
+    <string name="your_account">Your Account</string>
+    <string name="your_wishlist">Your WishList</string>
+    <string name="your_orders">Your Orders</string>
+    <string name="sell_on_shift">Sell On Shift</string>
+    <string name="share">Share</string>
+    <string name="spin_and_win">Spin And Win</string>
+    <string name="setting">Setting</string>
+    <string name="your_notifications">Your Notifications</string>
+    <string name="customer_services">Customer Services</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="cart">Cart</string>
+    <string name="mycart">MyCart</string>
+    <string name="deals_of_the_day">Deals of the Day!</string>
+    <string name="view_all">View all</string>
+    <string name="qualcomm_snapdragon">Qualcomm Snapdragon</string>
+    <string name="trending">#Trending</string>
+    <string name="oppo_f5">Oppo F5</string>
+    <string name="notifications">Notifications</string>
+    <string name="todo">TODO</string>
+    <string name="not_signed_in">Not Signed In</string>
+    <string name="email_address">Email Address</string>
+    <string name="opennav">Open Navigation Drawer</string>
+    <string name="closeNav">Close navigation drawer</string>
+    <string name="ratings">Ratings</string>
+    <string name="_99_ratings">99 ratings</string>
+    <string name="title_activity_seller">SellerActivity</string>
+    <string name="email">Email</string>
+    <string name="dont_have_an_account">Dont have an account</string>
+    <string name="skip_sign_in">Skip Sign In</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="fashion">Fashion</string>
+    <string name="electronics">Electronics</string>
+    <string name="books">Books</string>
+    <string name="toys">Toys</string>
+    <string name="facebook_app_id">442472026860062</string>
+    <string name="fb_login_protocol_scheme">fb442472026860062</string>
+    <string name="sagar_patil">Sagar Patil</string>
+    <string name="address">Address</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="date_of_birth">Date Of Birth  (DD/MM/YYYY)</string>
+    <string name="_23_nov_2001">23 Nov 2001</string>
+    <string name="_6355947852">6355947852</string>
+    <string name="signout">Signout</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <string-array name="Category">
+        <item>Select Category </item>
+        <item>Electronics</item>
+        <item>Mobiles</item>
+        <item>Appliances</item>
+        <item>Sport</item>
+        <item>Grocery</item>
+        <item>Books</item>
+        <item>Fashion</item>
+        <item>Kids</item>
+        <item>Vegetable Fruits</item>
+        <item>Buty</item>
+    </string-array>
+    <string-array name="Module">
+        <item>Customer</item>
+        <item>Seller</item>
+    </string-array>
+
+
+</resources>
